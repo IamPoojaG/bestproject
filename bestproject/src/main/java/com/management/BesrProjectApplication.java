@@ -1,13 +1,15 @@
-package com.management.bestproject;
+package com.management;
+
+
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BestprojectApplication {
+public class BesrProjectApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BestprojectApplication.class, args);
+		SpringApplication.run(BesrProjectApplication.class, args);
 	}
 
 }
